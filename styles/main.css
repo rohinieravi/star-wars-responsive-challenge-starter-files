@@ -1,0 +1,39 @@
+main {
+  padding-top: 50px;
+}
+
+main .row {
+  margin-bottom: 30px;
+}
+
+.box {
+  height: 400px;
+  text-align: left;
+  border: 1px solid lightgrey;
+}
+
+.navbar{
+	height:100px;
+	background-color: #eebb44;
+
+	width: 100%;
+	line-height: 50px;
+}
+
+body{
+	margin:0;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1,h2{
+	margin:0;
+}
+
+h3,p{
+	margin:10px 0 0 20px;
+}
+
+img{
+	height:300px;
+	width: 100%;
+}
