@@ -48,7 +48,6 @@
 /* Mobile defaults */
 .col-4{
   width: 100%;
-  margin-bottom: 20px;
 }
 
 
@@ -59,7 +58,6 @@
   /* 4 columns */
   .col-4 {
     width: 33.33%;
-    margin-bottom: 0;
   }
 
 }
